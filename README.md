@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vatii123</h1>
-<h3 align="center">An average wanna-be coders</h3>
+<h3 align="center">An average don't know how to code wanna-be coders</h3>
 
 - 🌱 I’m currently learning **Java, Python, HTML and JavaScript**
 
